@@ -30,4 +30,4 @@ Visit the [Releases page](https://github.com/dinhluyen93/PrismLauncher-Cracked/r
 - **Modern Macs**: `PrismLauncher-macOS-<version>.zip`
 - **Older Macs**: `PrismLauncher-macOS-Legacy-<version>.zip`
 
-After downloading, run the installer or extract the portable version to your preferred location.
+After downloading, run the installer or extract the portable version to your preferred location. Test.
