@@ -166,7 +166,7 @@ jobs:
           ARTIFACT_NAME: ${{ matrix.artifact-name }}-Qt6
           BUILD_PLATFORM: official
         run: |
-          cmake --workflow --preset "$CMAKE_PRESET"
+          cmake --workflow --preset "$CMAKE_PRESET" -DFORCE_BUNDLED_ZLIB=OFF
 
       ##
       # PACKAGE
